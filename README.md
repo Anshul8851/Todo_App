@@ -1,17 +1,24 @@
-## Running React on Repl.it
+# Todo App
 
+## Features
+
+> we can add our todos
+> we can edit our todos which are already present in todo list
+> we can  bookmark our completed task
+
+### Requirements
 [React](https://reactjs.org/) is a popular JavaScript library for building user interfaces.
 
 [Vite](https://vitejs.dev/) is a blazing fast frontend build tool that includes features like Hot Module Reloading (HMR), optimized builds, and TypeScript support out of the box.
 
 Using the two in conjunction is one of the fastest ways to build a web app.
 
-### Getting Started
-- Hit run
-- Edit [App.jsx](#src/App.jsx) and watch it live update!
+#### Running
 
-By default, Replit runs the `dev` script, but you can configure it by changing the `run` field in the [configuration file](#.replit). Here are the vite docs for [serving production websites](https://vitejs.dev/guide/build.html)
+Simply open your web browser and navigate to "https://todolocalstorage.anshul52.repl.co/"
 
-### Typescript
+#### Screenshots
 
-Just rename any file from `.jsx` to `.tsx`. You can also try our [TypeScript Template](https://replit.com/@replit/React-TypeScript)
+(https://replit.com/@anshul52/TODOLOCALSTORAGE#Screenshot%20(20).png)
+(https://replit.com/@anshul52/TODOLOCALSTORAGE#Screenshot%20(21).png)
+https://replit.com/@anshul52/TODOLOCALSTORAGE#Screenshot%20(22).png
